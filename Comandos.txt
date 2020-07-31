@@ -1,0 +1,10 @@
+$ git clone https://github.com/Samuel-Luciano/WEB001_AF.git
+$ cd WEB001_AF
+$ git status
+$ git add "SamuelLuciano.txt"
+$ git commit -m "Meu primeiro Commit"
+$ git status
+$ git add "Comandos.txt"
+$ git commit -m "Meu segundo Commit"
+$ git push origin master
+
